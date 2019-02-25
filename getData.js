@@ -1,4 +1,4 @@
-function insertData(){
+function getData(){
 
 	var newNews = " ";
 
